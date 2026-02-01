@@ -2,4 +2,4 @@ ultralytics
 torch
 opencv-python
 opencv-python-headless
-seaborn - if needed only
+seaborn
